@@ -1,0 +1,38 @@
+body{
+    background-image: url('bg2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    text-align:center;
+    margin-top: 98px;
+} 
+h1{
+    color:rgb(30, 28, 28);
+    font-size:50px;
+}
+.calculator{
+    display: inline-block;
+}
+input{
+    font-size:26px;
+    border-radius: 14px;
+    border:2px solid rgb(44, 39, 39);
+    height: 38px;
+}
+table{
+       margin:auto;
+}
+button{
+    border-radius: 14px;
+    font-size:28px;
+    background-color: rgb(246, 243, 244);
+    height:48px;
+    width:78px;
+}
+#backspace{
+     width:auto;
+}
+#clear{
+    width:149.40px;
+}
